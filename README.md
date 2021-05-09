@@ -22,6 +22,8 @@ We believe that in this way there will be effective communication between the do
 
 2) In the "donate" sub-folder inside "donate" folder, we will need to go to "settings.py", and update gmail address and password with a valid gmail address and password, Also in the setting.py one needs to do changes in the 'DATABASES' dictionary, you have to change the postgres username, password,and database name.
 
+#### Note: In order to send out email notifications to the donors, the user has to enable the "Less Secure App Access" in the Google Acoount settings.
+
 3) We have used Python 3, Django 3.2, PostgreSQL 13.2 to operate the website as they are essential parts for storing database.
 The following commands need to be run as they are the dependencies:
 
