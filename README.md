@@ -33,13 +33,13 @@ The following commands need to be run as they are the dependencies:
 
 4) After completing installation process, we need to create a database in PgAdmin(development platform for PostgreSQL), then we will open terminal with the address of the required folder(donate folder) and run following commands for successful execution:
 
-python manage.py makemigrations
+```python manage.py makemigrations```
 
-python manage.py migrate
+```python manage.py migrate```
 
-python manage.py sqlmigrate volunteers 0001
+```python manage.py sqlmigrate volunteers 0001```
 
-python manage.py runserver
+```python manage.py runserver```
 
 #### NOTE: One needs to create some data for the databsae, ie, the developer has to register some enteries initially beacause the database will run as empty initially.
 
