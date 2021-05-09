@@ -25,11 +25,11 @@ We believe that in this way there will be effective communication between the do
 3) We have used Python 3, Django 3.2, PostgreSQL 13.2 to operate the website as they are essential parts for storing database.
 The following commands need to be run as they are the dependencies:
 
-pip install django
+```pip install django```
 
-pip install psycopg2
+```pip install psycopg2```
 
-pip install pillow
+```pip install pillow```
 
 4) After completing installation process, we need to create a database in PgAdmin(development platform for PostgreSQL), then we will open terminal with the address of the required folder(donate folder) and run following commands for successful execution:
 
