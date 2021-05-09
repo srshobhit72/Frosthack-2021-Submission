@@ -47,8 +47,3 @@ The following commands need to be run as they are the dependencies:
 
 Some of the images which are brief description of the webpages are:
 ![homepage](https://user-images.githubusercontent.com/56973333/117562155-6df35000-b0ba-11eb-9277-3eef788b8b04.png)
-![donor_details](https://user-images.githubusercontent.com/56973333/117562143-5f0c9d80-b0ba-11eb-92d7-651731a5b4b0.png)
-![user_register_info](https://user-images.githubusercontent.com/56973333/117562146-6338bb00-b0ba-11eb-8e05-78caf4493daf.png)
-![user_login](https://user-images.githubusercontent.com/56973333/117562150-6a5fc900-b0ba-11eb-9fe3-2e84973b9db1.png)
-![search_for_donors](https://user-images.githubusercontent.com/56973333/117562158-73509a80-b0ba-11eb-963e-da144524b842.png)
-![register_on_site](https://user-images.githubusercontent.com/56973333/117562197-b4e14580-b0ba-11eb-9acb-f93897513e6f.png)
