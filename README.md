@@ -5,6 +5,9 @@ Introduction Video of the project:
 
 https://drive.google.com/file/d/1XJjTp6QJh_0rdwUYHZsTHkrYMzC0VbSH/view?usp=drivesdk
 
+youtube link:
+https://www.youtube.com/watch?v=300IDNztclw
+
 ## Overview
 India, the country with the second largest population is facing its one of the biggest challenges, Covid-19. The second wave of Covid-19 has proved to be fatal for India. And during this difficult time, a huge number of people are struggling due to coronavirus.
 
