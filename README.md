@@ -47,3 +47,5 @@ The following commands need to be run as they are the dependencies:
 
 Some of the images which are brief description of the webpages are:
 ![homepage](https://user-images.githubusercontent.com/56973333/117562155-6df35000-b0ba-11eb-9277-3eef788b8b04.png)
+
+![homepage](https://user-images.githubusercontent.com/56361694/117562362-10600300-b0bc-11eb-9770-ec340132eba2.png)
