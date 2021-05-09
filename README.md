@@ -1,5 +1,5 @@
 # Frosthack-2021-Submission
-This is the project submission of Team SSD of Frosthack 2021. This project is developed on windows operating system and we expect the user to run it in windows OS as well.
+This is the project submission of Team SSD of Frosthack 2021. This project is developed on windows operating system and we expect the user can run it on other OS as well.
 
 ## Overview
 India, the country with the second largest population is facing its one of the biggest challenges, Covid-19. The second wave of Covid-19 has proved to be fatal for India. And during this difficult time, a huge number of people are struggling due to coronavirus.
